@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/hadoop"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/hadoopcommon"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/hadoophdfs"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/hadoopkms"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/hadoopmapreduce"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/hadooptools"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/hadoopyarn"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/hdoophttp"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
